@@ -1,0 +1,11 @@
+# Core dependencies for Copilot Translator Application
+openai>=1.0.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# GUI Framework
+tkinter-tooltip>=0.2.0
+
+# Additional utilities
+jsonschema>=4.20.0
+langdetect>=1.0.9
